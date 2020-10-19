@@ -20,8 +20,8 @@
 
 title: Moi, Président... 404
 email: moipresident404@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Si vous êtes arrivé jusqu'ici, c'est que vous êtes allé trop loin.
+#description: >- # this means to ignore newlines until "baseurl:"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moipresident404
