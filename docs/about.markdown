@@ -5,6 +5,5 @@ permalink: /about/
 ---
 
 
-Moi, Président... 404
-
+Si vous êtes arrivé jusqu'ici, c'est que vous êtes déjà allé trop loin.
 
